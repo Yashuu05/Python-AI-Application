@@ -63,15 +63,16 @@ _Note: You can add more models from Gemini and Groq. For this project, it is lim
 
 ## 🛠️ 3. Modules Used
 
-| Module         | Purpose                              |
+| Module         | Purpose                               |
 |----------------|---------------------------------------|
 | `customtkinter`| Modern, styled GUI toolkit            |
 | `threading`    | Background processing (e.g., TTS/streaming) |
-| `genai`        | Gemini API client              |
-| `groq`         | groq API
-| `tkmessagebox` | Popup alerts and feedback              |
+| `genai`        | Gemini API client                     |
+| `groq`         | groq API                              |
+| `tkmessagebox` | Popup alerts and feedback             |
 | `elevenlabs`   | TTS audio generation                  |
 | `os`, `re`     | Utility handling                      |
+| `pymongo`      | MongoDB connection                    |
 
 ---
 
