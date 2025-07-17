@@ -65,10 +65,11 @@ _Note: You can add more models from Gemini and Groq. For this project, it is lim
 - logout : redirects you to Login Window.
 - Clear prompt : clears user input or a prompt.
 - Clear Chat : deletes Chat conversations from GUI only.
-- Settings : change name, crdentials and delete chat history.
+- Settings : change name, credentials and delete chat history.
 - Change Model : change AI and Voice models of your desire.
 - Close : closes the application
 - Go : sends prompt to AI
+- History : View conversation history.
 ---
 
 ## 🛠️ 3. Modules Used
