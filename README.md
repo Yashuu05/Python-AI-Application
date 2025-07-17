@@ -60,6 +60,16 @@ _Note: You can add more models from Gemini and Groq. For this project, it is lim
 - Can delete chat conversations permanently anytime through settings.
 
 ---
+## Dashboard Buttons
+- Speak : Converts AI output into voice.
+- logout : redirects you to Login Window.
+- Clear prompt : clears user input or a prompt.
+- Clear Chat : deletes Chat conversations from GUI only.
+- Settings : change name, crdentials and delete chat history.
+- Change Model : change AI and Voice models of your desire.
+- Close : closes the application
+- Go : sends prompt to AI
+---
 
 ## 🛠️ 3. Modules Used
 
@@ -75,6 +85,15 @@ _Note: You can add more models from Gemini and Groq. For this project, it is lim
 | `pymongo`      | MongoDB connection                    |
 
 ---
+# Login Window Preview
+![](login_window.png)
+---
+# Dashboard window
+![](dashboard.png)
+---
+# Change model
+![](change_model.png)
+---
 
 ## 📁 4. Project Directory Structure
 ```
@@ -83,7 +102,7 @@ AI_Chat_Assistant/
 ├── main.py # Main application file
 ├── gitignore  # ignore .env file
 ├── README.md # You're reading it!
-└── screenshots/ # UI screenshots for documentation
+└── screenshots # UI screenshots for documentation
 ```
 ---
 
